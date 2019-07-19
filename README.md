@@ -1,3 +1,3 @@
-In this repository, we will see how to use a very unique library in python, tpot . 
+In this repository, we will see how to use a very unique library in python called tpot . 
 The reason why this library is unique is that it automates the entire Machine Learning pipeline and 
-provides you with the best performing machine learning model.
+provides you with the best performing machine learning model. I have used TPOT with various datasets !!!
