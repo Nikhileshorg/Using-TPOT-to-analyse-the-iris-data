@@ -11,3 +11,13 @@ Source: https://github.com/EpistasisLab/tpot
 TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 
 
+Once TPOT is finished searching (or you get tired of waiting), it provides you with the Python code for the best pipeline it found so you can tinker with the pipeline from there.
+
+
+Basically, it automatically provides you with the best suited cum optimized model for any given problem using genetic programming.
+Well, it's like you train the TPOT model using desired data and it will provide you with the best suited model for the data from the scikit-learn library as it has been built on top of it. This model is highly optimized and brings about the best results. In past versions of this kernel, models like Random Forest classifier, Decision Tree classifier and XGBoost classifier. Yes, different models for the same data because every time you run the kernel, due to TPOT's genetic programming approach, different models can come up every time.
+
+How do genetic algorithms work over generations?
+
+
+
