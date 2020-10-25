@@ -18,7 +18,7 @@ Basically, it automatically provides you with the best suited cum optimized mode
 Well, it's like you train the TPOT model using desired data and it will provide you with the best suited model for the data from the scikit-learn library as it has been built on top of it. This model is highly optimized and brings about the best results. 
 
 
-Please read more about this more in Wiki of this respository.
+Please read more about this more in Wiki of this respository. https://github.com/Nikhileshorg/Using-TPOT-to-analyse-various-datasets/wiki
 
 
 
