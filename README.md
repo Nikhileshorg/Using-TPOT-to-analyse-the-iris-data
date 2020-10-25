@@ -15,9 +15,9 @@ Once TPOT is finished searching (or you get tired of waiting), it provides you w
 
 
 Basically, it automatically provides you with the best suited cum optimized model for any given problem using genetic programming.
-Well, it's like you train the TPOT model using desired data and it will provide you with the best suited model for the data from the scikit-learn library as it has been built on top of it. This model is highly optimized and brings about the best results. In past versions of this kernel, models like Random Forest classifier, Decision Tree classifier and XGBoost classifier. Yes, different models for the same data because every time you run the kernel, due to TPOT's genetic programming approach, different models can come up every time.
+Well, it's like you train the TPOT model using desired data and it will provide you with the best suited model for the data from the scikit-learn library as it has been built on top of it. This model is highly optimized and brings about the best results. 
 
-How do genetic algorithms work over generations?
+
 
 
 
